@@ -23,6 +23,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[Denia Bot](https://lyravein.my.id/denia)** | AI companion Discord bot | Node.js, Discord.js |
+| **[RoomFall](https://lyravein.my.id/roomfall)** | First-person asymmetric hotel game | Unity 6, C# |
 
 ---
 
