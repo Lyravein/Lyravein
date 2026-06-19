@@ -24,6 +24,7 @@
 |---------|-------------|-------|
 | **[Denia Bot](https://lyravein.my.id/denia)** | AI companion Discord bot | Node.js, Discord.js |
 | **[RoomFall](https://lyravein.my.id/roomfall)** | First-person asymmetric hotel game | Unity 6, C# |
+| **[FiveFloors](https://lyravein.my.id/fivefloors)** | 3D first-person horror puzzle game in an abandoned building | Unity 2022.3, C# |
 
 ---
 
