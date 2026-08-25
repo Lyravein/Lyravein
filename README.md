@@ -5,11 +5,11 @@
 **game developer · bot developer**
 *crafting unity worlds & discord companions*
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=480&lines=Game+Developer;Bot+Developer;Unity+%2B+C%23;Node.js+%2B+Discord.js;Always+building+something" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=480&lines=Game+Developer;Bot+Developer;Unity+%2B+C%23;Node.js+%2B+Discord.js;Always+building+something" alt="Typing SVG" />
 
 <br/>
 
-[![Website](https://img.shields.io/badge/lyravein.my.id-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lyravein.my.id/)
+[![Website](https://img.shields.io/badge/lyravein.my.id-60A5FA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lyravein.my.id/)
 
 </div>
 
@@ -22,16 +22,26 @@
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Lyravein&show_icons=true&hide_border=true&bg_color=00000000&title_color=C084FC&icon_color=C084FC&text_color=c9d1d9" alt="GitHub stats" />
-&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyravein&layout=compact&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=c9d1d9&langs_count=6" alt="Top languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lyravein&theme=transparent" alt="Profile details" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lyravein&theme=transparent" alt="Repos per language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lyravein&theme=transparent" alt="Most commit language" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lyravein&theme=transparent" alt="Stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lyravein&theme=transparent&utcOffset=7" alt="Productive time" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Lyravein&hide_border=true&background=00000000&stroke=60a5fa&ring=60a5fa&fire=38bdf8&currStreakLabel=60a5fa&sideLabels=9aa9c2&dates=9aa9c2&currStreakNum=eaf0f8&sideNums=eaf0f8" alt="Streak stats" />
+
 </div>
 
 ---
@@ -39,10 +49,10 @@
 ### 📫 Reach Me
 
 [![Discord](https://img.shields.io/badge/Discord-lurafinn-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/543678254318485515)
-[![Denia Bot](https://img.shields.io/badge/Denia%20Bot-Add%20to%20Discord-7c3aed?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1510462661836542063&permissions=8&scope=bot+applications.commands)
+[![Denia Bot](https://img.shields.io/badge/Denia%20Bot-Add%20to%20Discord-3b82f6?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1510462661836542063&permissions=8&scope=bot+applications.commands)
 
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=lyravein&color=c084fc&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=lyravein&color=60a5fa&style=flat-square" alt="profile views" />
 </div>
