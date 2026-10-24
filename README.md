@@ -2,9 +2,9 @@
 
 # Lyravein
 
-### Game developer · Bot developer
+### Game developer
 
-I build worlds with **Unity** and create **Discord bots** that bring communities together.
+I build interactive worlds with **Unity** and **C#**.
 
 [![Website](https://img.shields.io/badge/Website-lyravein.my.id-70a5ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lyravein.my.id/)
 [![Discord](https://img.shields.io/badge/Discord-lurafinn-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/543678254318485515)
@@ -30,14 +30,6 @@ I build worlds with **Unity** and create **Discord bots** that bring communities
 ![Go](https://img.shields.io/badge/Go-20232a?style=flat-square&logo=go&logoColor=00add8)
 
 </div>
-
-## Featured project
-
-### [Denia Bot](https://discord.com/oauth2/authorize?client_id=1510462661836542063&permissions=8&scope=bot+applications.commands)
-
-A Discord bot you can add to your server. Built with the Discord ecosystem.
-
----
 
 ## GitHub at a glance
 
