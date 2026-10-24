@@ -1,58 +1,63 @@
 <div align="center">
 
-# hey, i'm lyravein
+# Lyravein
 
-**game developer · bot developer**
-*crafting unity worlds & discord companions*
+### Game developer · Bot developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=480&lines=Game+Developer;Bot+Developer;Unity+%2B+C%23;Node.js+%2B+Discord.js;Always+building+something" alt="Typing SVG" />
+I build worlds with **Unity** and create **Discord bots** that bring communities together.
 
-<br/>
-
-[![Website](https://img.shields.io/badge/lyravein.my.id-60A5FA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lyravein.my.id/)
+[![Website](https://img.shields.io/badge/Website-lyravein.my.id-70a5ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lyravein.my.id/)
+[![Discord](https://img.shields.io/badge/Discord-lurafinn-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/543678254318485515)
 
 </div>
 
 ---
 
-### ⚙️ Tech Stack
+## What I work with
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
----
-
-### 📈 GitHub Stats
+| Game development | Bots & backend |
+|:--|:--|
+| Unity · C# | Node.js · Discord.js |
+| Building interactive game experiences | Building Discord tools and bots |
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lyravein&theme=transparent" alt="Profile details" />
+![JavaScript](https://img.shields.io/badge/JavaScript-20232a?style=flat-square&logo=javascript&logoColor=f7df1e)
+![Node.js](https://img.shields.io/badge/Node.js-20232a?style=flat-square&logo=node.js&logoColor=83cd29)
+![Discord.js](https://img.shields.io/badge/Discord.js-20232a?style=flat-square&logo=discord&logoColor=7289da)
+![Unity](https://img.shields.io/badge/Unity-20232a?style=flat-square&logo=unity&logoColor=ffffff)
+![C%23](https://img.shields.io/badge/C%23-20232a?style=flat-square&logo=csharp&logoColor=9b4f96)
+![Go](https://img.shields.io/badge/Go-20232a?style=flat-square&logo=go&logoColor=00add8)
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lyravein&theme=transparent" alt="Repos per language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lyravein&theme=transparent" alt="Most commit language" />
+</div>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lyravein&theme=transparent" alt="Stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lyravein&theme=transparent&utcOffset=7" alt="Productive time" />
+## Featured project
 
-<br/>
+### [Denia Bot](https://discord.com/oauth2/authorize?client_id=1510462661836542063&permissions=8&scope=bot+applications.commands)
 
-<img src="https://streak-stats.demolab.com?user=Lyravein&hide_border=true&background=00000000&stroke=60a5fa&ring=60a5fa&fire=38bdf8&currStreakLabel=60a5fa&sideLabels=9aa9c2&dates=9aa9c2&currStreakNum=eaf0f8&sideNums=eaf0f8" alt="Streak stats" />
+A Discord bot you can add to your server. Built with the Discord ecosystem.
+
+---
+
+## GitHub at a glance
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lyravein&theme=transparent" alt="GitHub profile activity" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lyravein&theme=transparent" alt="Languages used across repositories" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lyravein&theme=transparent" alt="GitHub statistics" />
+
+<img src="https://streak-stats.demolab.com?user=Lyravein&hide_border=true&background=00000000&stroke=70a5ff&ring=70a5ff&fire=38bdf8&currStreakLabel=70a5ff&sideLabels=9aa9c2&dates=9aa9c2&currStreakNum=eaf0f8&sideNums=eaf0f8" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-### 📫 Reach Me
-
-[![Discord](https://img.shields.io/badge/Discord-lurafinn-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/543678254318485515)
-[![Denia Bot](https://img.shields.io/badge/Denia%20Bot-Add%20to%20Discord-3b82f6?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1510462661836542063&permissions=8&scope=bot+applications.commands)
-
----
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=lyravein&color=60a5fa&style=flat-square" alt="profile views" />
+
+**Have a project in mind?** [Visit my website](https://www.lyravein.my.id/) · [Say hi on Discord](https://discord.com/users/543678254318485515)
+
+<img src="https://komarev.com/ghpvc/?username=lyravein&color=70a5ff&style=flat-square" alt="Profile views" />
+
 </div>
